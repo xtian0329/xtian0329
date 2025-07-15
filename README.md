@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xtian0329
-- 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently learning Mathematical Finance and Biostatistics in University of Waterloo
+- 🌱 I’m currently majoring in Mathematical Finance and Biostatistics in University of Waterloo
 - 📫 How to reach me x49tian@uwaterloo.ca
 
 <!---
